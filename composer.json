@@ -1,0 +1,20 @@
+{
+    "name": "azam/yivunot",
+    "description": "It is my note application",
+    "authors": [
+        {
+            "name": "Azam2926",
+            "email": "azam.inoyatov.1998@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
